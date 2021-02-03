@@ -10,7 +10,7 @@ function getHourHandAngle(s) {
 }
 
 function getMinuteHandAngle(s) {
-  s %= 3600; // minutes in an hour
+  s %= 3600; // seconds in an hour
   return ((6 * s / 60) + 180) % 360;
 }
 
