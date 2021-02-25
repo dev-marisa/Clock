@@ -1,3 +1,7 @@
-# Clock
+# clockable
 
-Analog Clock using HTML, CSS, and JS
+Analog clock in vanilla `HTML`, `CSS`, and `JS`
+
+```
+This project is clockable, just like me... wait what?
+```
